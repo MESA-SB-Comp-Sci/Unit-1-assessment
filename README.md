@@ -28,7 +28,6 @@ The problem-solving portion has 2 questions and code that is incorrect! You task
 
 ## Project Checklist: 
 - [ ] I wrote out the commands needed to complete the first folder structure 
-- [ ] I wrote out the commands needed to complete the second folder structure 
 - [ ] Every command is lowercased
 - [ ] Every command is in listed format
 - [ ] The names of the folders I created match the names of the folders in the diagram 
