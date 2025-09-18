@@ -48,7 +48,7 @@ Responses should be written on looseleaf. Each mini-project should be labeled. C
             └── assessments.txt
     └── pd2/
             ├── student-list.txt
-            ├── teachers.txt
+            ├── teachers/
                 └── rendon/
                     ├── info.txt
                     ├── presentations.txt
