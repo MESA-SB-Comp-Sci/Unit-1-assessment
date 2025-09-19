@@ -1,4 +1,4 @@
-# Short Response
+# Project
 There are 1 mini-projects for this portion. Write out the commands needed to create the diagrams for each mini-project.
 
 Responses should be written on looseleaf. Each mini-project should be labeled. Commands should be in listed format. 
